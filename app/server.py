@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/file/d/1a_yoYURA_PzPLv0RmhO9ZLH0uyXXT64g/view?usp=sharing'
+export_file_url = 'https://www.dropbox.com/s/jgu5zsra0f3scen/mushroom-detector.pkl?dl=1'
 export_file_name = 'mushroom-detector.pkl'
 
 classes = ['amanita_muscaria','amanita_virosa','cantharellus_cibarius','craterellus_cornucopioides','lactarius_torminosus']
